@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**ParthJPatel-Portfolio/ParthJPatel-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Master’s student in Cybersecurity focused on SOC operations, threat detection, and web security. I enjoy building practical security knowledge through hands-on labs, projects, and independent learning.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Master of Cybersecurity
+Toronto Metropolitan University  
+- SOC operations, incident response, threat detection, risk management, security architecture
+
+## Certifications & Training
+- (ISC)² Certified in Cybersecurity (CC)
+- CompTIA Security+ (In Progress)
+- CSPT 1000 – Fundamentals of Penetration Testing
+- TryHackMe 2026: An AI Odyssey CTF (Certificate of Participation)
+
+## Interests
+- SOC Analysis (SIEM, log analysis, incident response)
+- Web Application Security
+- Blue Team / Defensive Security
+
+## Technical Skills
+- Networking: HTTP, HTTPS, DNS, TCP/IP
+- Security Tools: Wireshark (basic), SIEM concepts (learning)
+- Operating Systems: Linux (basic), Windows fundamentals
+- Scripting: Bash
+- Core Concepts: Vulnerability analysis, threat detection, security fundamentals
+
+## Cybersecurity Projects & Writeups
+- TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
+- Web Application Penetration Testing Notes
+- Additional projects and reports on the way
+
+## TryHackMe Progress
+- Completed: HTTP in Detail
+- Ongoing: Additional cybersecurity labs and rooms
+
+## Career Goals
+- SOC Analyst / Security Analyst role
+- Strengthen log analysis and threat detection skills
+- Build a strong cybersecurity portfolio through hands-on experience
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/parthjigneshpatel
