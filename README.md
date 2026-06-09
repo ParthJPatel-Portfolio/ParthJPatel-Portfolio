@@ -33,7 +33,7 @@ Toronto Metropolitan University
 - Additional projects and reports on the way
 
 ## TryHackMe Progress
-- Completed: HTTP in Detail
+- Completed: HTTP in Detail, Web Application Basics
 - Ongoing: Additional cybersecurity labs and rooms
 
 ## Career Goals
