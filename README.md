@@ -31,7 +31,7 @@ Toronto Metropolitan University
 - TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
 - Vulnerability Assessment & Security Analysis of Windows Server 2012/2016 Virtual Machines
 - Hypothetical Walk-in Clinic Risk Assessment
-- HTTP in Detail Writeup: https://github.com/ParthJPatel-Portfolio/TryHackMe-Writeups/blob/main/web-application-penetration-testing-notes/HTTP%20in%20Detail.md
+- HTTP in Detail Writeup: ./TryHackMe-Writeups/HTTP-in-Detail.md
 - Additional projects and reports on the way
 
 ## TryHackMe Progress
