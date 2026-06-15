@@ -7,7 +7,7 @@ Master’s student in Cybersecurity focused on SOC operations, threat detection,
 
 ### Master of Cybersecurity
 Toronto Metropolitan University  
-- SOC operations, incident response, threat detection, risk management, security architecture
+- Courses: Fundamentals of Security Technologies, Fundamentals of Information Assurance, Network Security, Security Operations, Business Continuity and Disaster Recovery, Cybersecurity Risk Management, Security Architecture
 
 ## Certifications & Training
 - (ISC)² Certified in Cybersecurity (CC)
