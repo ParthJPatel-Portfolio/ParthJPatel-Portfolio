@@ -1,4 +1,4 @@
-# Web Application Basics TryHackMe Writeup
+# Web Application Basics TryHackMe Write-up
 
 ## Summary
 
