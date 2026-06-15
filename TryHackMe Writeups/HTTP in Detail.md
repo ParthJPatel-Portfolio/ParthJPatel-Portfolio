@@ -1,4 +1,4 @@
-# HTTP in Detail TryHackMe Room Writeup
+# HTTP in Detail TryHackMe Room Write-up
 
 ## What is HTTP?
 
