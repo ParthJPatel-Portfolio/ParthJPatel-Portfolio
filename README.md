@@ -30,7 +30,7 @@ Toronto Metropolitan University
 ## Cybersecurity Projects & Writeups
 - TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
 - Web Application Penetration Testing Notes
-- Hypothetical Hospital Risk Assessment
+- Hypothetical Walk-in Clinic Risk Assessment
 - Additional projects and reports on the way
 
 ## TryHackMe Progress
