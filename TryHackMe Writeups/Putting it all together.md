@@ -1,4 +1,4 @@
-# Putting it all together TryHackMe Writeup
+# Putting it all together TryHackMe Write-up
 
 This section tied everything together by following the journey of a website request from start to finish.
 When a user enters a website address, DNS acts like the internet’s phonebook, finding the correct IP address for the destination.
