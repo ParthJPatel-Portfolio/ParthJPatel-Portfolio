@@ -29,7 +29,7 @@ Toronto Metropolitan University
 
 ## Cybersecurity Projects & Writeups
 - TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
-- Vulnerability Assessment & Security Analysis of Windows Server 2012/2016 Virtual Machines
+- Windows Server 2012/2016 Virtual Machines Vulnerability Assessment: [Vulnerability Assessment & Security Analysis of Windows Server 2012 and 2016 Virtual Machines](./Vulnerability%20Management/Vulnerability%20Assessment%20%26%20Security%20Analysis%20of%20Windows%20Server%202012%20and%202016%20Virtual%20Machines.pdf)
 - Hypothetical Walk-in Clinic Risk Assessment
 - HTTP in Detail Writeup: [HTTP in Detail](./web-application-penetration-testing-notes/HTTP%20in%20Detail.md)
 - Additional projects and reports on the way
