@@ -1,7 +1,7 @@
 # Hi, I'm Parth 👋
 
 ## About Me
-Master’s student in Cybersecurity focused on SOC operations, threat detection, and web security. I enjoy building practical security knowledge through hands-on labs, projects, and independent learning.
+Master’s student in Cybersecurity focused on SOC operations, threat detection, and web application penetration testing. I enjoy building practical security knowledge through hands-on labs, projects, and independent learning.
 
 ## Education
 
