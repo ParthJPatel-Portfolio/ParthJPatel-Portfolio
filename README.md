@@ -37,7 +37,7 @@ Toronto Metropolitan University
 - Additional projects and reports on the way
 
 ## TryHackMe Progress
-- Completed: HTTP in Detail, Web Application Basics, Putting it Together
+- Completed: HTTP in Detail, Web Application Basics, Putting it Together, Burp Suite Basics
 - Ongoing: Additional cybersecurity labs and rooms
 
 ## Career Goals
