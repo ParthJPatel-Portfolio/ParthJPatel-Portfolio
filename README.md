@@ -13,6 +13,7 @@ Toronto Metropolitan University
 - (ISC)² Certified in Cybersecurity (CC)
 - CompTIA Security+ (In Progress)
 - CSPT 1000 – Fundamentals of Penetration Testing
+- CSPT 1020 - Web Application Penetration Testing
 - TryHackMe 2026: An AI Odyssey CTF (Certificate of Participation)
 
 ## Interests
