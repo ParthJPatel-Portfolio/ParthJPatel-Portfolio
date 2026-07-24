@@ -39,6 +39,7 @@ Toronto Metropolitan University
 
 ## TryHackMe Progress
 - Completed: HTTP in Detail, Web Application Basics, Putting it Together, Burp Suite Basics
+- Hacker Holidays CTF Warmup Room: The Brochure
 - Ongoing: Additional cybersecurity labs and rooms
 
 ## Career Goals
