@@ -1,7 +1,9 @@
 # Hi, I'm Parth 👋
 
 ## About Me
-Master’s student in Cybersecurity focused on SOC operations, threat detection, and web application penetration testing. I enjoy building practical security knowledge through hands-on labs, projects, and independent learning.
+Cybersecurity graduate with a background in Computer Engineering and a strong interest in defensive security, SOC operations, threat detection, vulnerability assessment, and incident response. I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability scanning, security analysis, and threat investigation using tools such as Splunk, Nmap, Nessus, Wireshark, and Kali Linux.
+
+I enjoy learning by building and investigating, whether that's analyzing security risks, mapping threats to frameworks such as MITRE ATT&CK, conducting security assessments, or working through hands-on labs and CTF challenges. This portfolio documents my projects, labs, technical learning, and continued development as I pursue a career in cybersecurity.
 
 ## Education
 
