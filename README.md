@@ -5,9 +5,14 @@ Master’s student in Cybersecurity focused on SOC operations, threat detection,
 
 ## Education
 
-### Master of Cybersecurity
+### Master of Cybersecurity - (September 2025 - August 2026)
 Toronto Metropolitan University  
-- Courses: Fundamentals of Security Technologies, Fundamentals of Information Assurance, Network Security, Security Operations, Business Continuity and Disaster Recovery, Cybersecurity Risk Management, Security Architecture, Simulations in the Cyber Range, Applied Cryptography
+- Relevant Courses: Fundamentals of Security Technologies, Fundamentals of Information Assurance, Network Security, Security Operations, Business Continuity and Disaster Recovery, Cybersecurity Risk Management, Security Architecture, Simulations in the Cyber Range, Applied Cryptography
+
+### Bachelor of Engineering, Computer Engineering - (September 2021 - April 2025)
+York University
+- Relevant courses: Computer Networks, Computer Security, Mobile Communications, Robotics, Operating Systems, Applied Machine Learning, Fundamentals of Data Structures, Object Oriented Programming, Software Design, Software Engineering Requirements, Design and Analysis of Algorithms, Professional Engineering Practice
+
 
 ## Certifications & Training
 - (ISC)² Certified in Cybersecurity (CC)
@@ -18,7 +23,6 @@ Toronto Metropolitan University
 
 ## Interests
 - SOC Analysis (SIEM, log analysis, incident response)
-- Web Application Security
 - Blue Team / Defensive Security
 
 ## Technical Skills
@@ -26,6 +30,9 @@ Toronto Metropolitan University
 - Security Tools: Wireshark (basic), SIEM concepts (learning)
 - Operating Systems: Linux (basic), Windows fundamentals
 - Scripting: Bash
+- Security Frameworks: NIST Cybersecurity Framework, NIST Risk Management Framework (RMF), CIS Controls v8.1, MITRE ATT&CK Framework
+- Cloud Security Platforms: Google Cloud Platform, AWS
+- Vulnerability Management
 - Core Concepts: Vulnerability analysis, threat detection, security fundamentals
 
 ## Cybersecurity Projects & Writeups
@@ -33,15 +40,20 @@ Toronto Metropolitan University
 - Windows Server 2012/2016 Virtual Machines Vulnerability Assessment: [Vulnerability Assessment & Security Analysis of Windows Server 2012 and 2016 Virtual Machines](./Vulnerability%20Management/Vulnerability%20Assessment%20%26%20Security%20Analysis%20of%20Windows%20Server%202012%20and%202016%20Virtual%20Machines.pdf)
 - Hypothetical Walk-in Clinic Risk Assessment: [Hypothetical Walk-in Clinic Risk Assessment Report](./Risk%20Management%20Projects/Hypothetical%20Walk-in%20Clinic%20Risk%20Assessment%20Report.pdf)
 - Cryptographic Secure Messaging Protocol Simulation: [Secure Messaging Simulation](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
-- HTTP in Detail Writeup: [HTTP in Detail](./web-application-penetration-testing-notes/HTTP%20in%20Detail.md)
-- Web Application Basics Writeup: [Web Application Basics](./TryHackMe%20Writeups/Web%20Application%20Basics.md)
-- Putting it all together Writeup: [Putting it all together](./TryHackMe%20Writeups/Putting%20it%20all%20together.md)
+- ML-Based Intrusion Detection System
+- Network Forensics and Security Analysis
+- Cyber Range Labs
 - Additional projects and reports on the way
 
 ## TryHackMe Progress
 - Completed: HTTP in Detail, Web Application Basics, Putting it Together, Burp Suite Basics
 - Hacker Holidays CTF Warmup Room: The Brochure
 - Ongoing: Additional cybersecurity labs and rooms
+
+## TryHackMe Room Writeups
+- HTTP in Detail Writeup: [HTTP in Detail](./web-application-penetration-testing-notes/HTTP%20in%20Detail.md)
+- Web Application Basics Writeup: [Web Application Basics](./TryHackMe%20Writeups/Web%20Application%20Basics.md)
+- Putting it all together Writeup: [Putting it all together](./TryHackMe%20Writeups/Putting%20it%20all%20together.md)
 
 ## Career Goals
 - SOC Analyst / Security Analyst role
