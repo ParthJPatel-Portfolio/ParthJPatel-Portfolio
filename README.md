@@ -28,14 +28,17 @@ York University
 - Blue Team / Defensive Security
 
 ## Technical Skills
-- Networking: HTTP, HTTPS, DNS, TCP/IP
-- Security Tools: Wireshark (basic), SIEM concepts (learning)
-- Operating Systems: Linux (basic), Windows fundamentals
-- Scripting: Bash
+- Networking: HTTP, HTTPS, DNS, TCP/IP, Firewalls, VPN
+- Security Tools: Wireshark, SIEM (Splunk, Wazuh), Nmap, Burpe Suite, Metasploit
+- Security Operations: Security Monitoring, Incident Response
+- Scripting: Python, Bash
+- Operating Systems: Linux, Windows, Kali Linux
 - Security Frameworks: NIST Cybersecurity Framework, NIST Risk Management Framework (RMF), CIS Controls v8.1, MITRE ATT&CK Framework
-- Cloud Security Platforms: Google Cloud Platform, AWS
-- Vulnerability Management
-- Core Concepts: Vulnerability analysis, threat detection, security fundamentals
+- Cloud Security Platforms: Google Cloud Platform, Amazon Web Services
+- Vulnerability Management Tools: Tenable Nessus
+- Core Concepts: Authentication, Authorization, Access Control, Encryption, OWASP Top 10, Web Application Security Concepts, Common Attack Techniques, Security Investigations
+- Git and Github
+
 
 ## Cybersecurity Projects & Writeups
 - TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
