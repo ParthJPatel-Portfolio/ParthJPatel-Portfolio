@@ -61,7 +61,7 @@ York University
 - Putting it all together Writeup: [Putting it all together](./TryHackMe%20Writeups/Putting%20it%20all%20together.md)
 
 ## TryHackMe CTF Writeups
-- TryHackMe Hacker Holidays Challenge #4: [TryHackMe CTF Writeups](https://github.com/ParthJPatel-Portfolio/TryHackMe-CTF-Writeups/tree/main)
+- TryHackMe Hacker Holidays: [TryHackMe CTF Writeups](https://github.com/ParthJPatel-Portfolio/TryHackMe-CTF-Writeups/tree/main)
 
 ## Career Goals
 - SOC Analyst / Security Analyst role
