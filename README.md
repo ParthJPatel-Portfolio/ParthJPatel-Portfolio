@@ -60,6 +60,9 @@ York University
 - Web Application Basics Writeup: [Web Application Basics](./TryHackMe%20Writeups/Web%20Application%20Basics.md)
 - Putting it all together Writeup: [Putting it all together](./TryHackMe%20Writeups/Putting%20it%20all%20together.md)
 
+## TryHackMe CTF Writeups
+- TryHackMe Hacker Holidays Challenge #4: [TryHackMe CTF Writeups](https://github.com/ParthJPatel-Portfolio/TryHackMe-CTF-Writeups/tree/main)
+
 ## Career Goals
 - SOC Analyst / Security Analyst role
 - Strengthen log analysis and threat detection skills
