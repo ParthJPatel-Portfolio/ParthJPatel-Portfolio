@@ -7,11 +7,11 @@ I enjoy learning by building and investigating, whether that's analyzing securit
 
 ## Education
 
-### Master of Cybersecurity - (September 2025 - August 2026)
+### Master of Cybersecurity - (September 2025 - August 2026) - Completed
 Toronto Metropolitan University  
 - Relevant Courses: Fundamentals of Security Technologies, Fundamentals of Information Assurance, Network Security, Security Operations, Business Continuity and Disaster Recovery, Cybersecurity Risk Management, Security Architecture, Simulations in the Cyber Range, Applied Cryptography
 
-### Bachelor of Engineering, Computer Engineering - (September 2021 - April 2025)
+### Bachelor of Engineering, Computer Engineering - (September 2021 - April 2025) - Completed
 York University
 - Relevant courses: Computer Networks, Computer Security, Mobile Communications, Robotics, Operating Systems, Applied Machine Learning, Fundamentals of Data Structures, Object Oriented Programming, Software Design, Software Engineering Requirements, Design and Analysis of Algorithms, Professional Engineering Practice
 
