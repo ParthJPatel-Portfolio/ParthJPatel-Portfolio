@@ -48,6 +48,7 @@ York University
 - Cryptographic Secure Messaging Protocol Simulation: [Secure Messaging Simulation](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 - ML-Based Intrusion Detection System: [ML-Based Intrusion Detection System](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
 - Network Forensics Incident Investigation: [Network Forensics Incident Investigation](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
+- ERP Security Architecture, Risk Assessment, and Implementation Plan: [Cloud ERP Security Architecture & Risk Assessment](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
 - Security Awareness and Threat Simulation Project
 - Cyber Range Labs
 - Additional projects and reports on the way
