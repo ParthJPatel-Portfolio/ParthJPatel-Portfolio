@@ -98,7 +98,7 @@ York University | *September 2021 - April 2025*
 ## 🏆 Certifications & Training
 
 - ✅ **ISC² Certified in Cybersecurity (CC)** — September 2025
-- 🔄 **CompTIA Security+** — In Progress (Expected May 2026)
+- 🔄 **CompTIA Security+** — In Progress (Expected September 2026)
 - ✅ **CSPT 1000** – Fundamentals of Penetration Testing
 - ✅ **CSPT 1020** – Web Application Penetration Testing
 - ✅ **TryHackMe 2026: An AI Odyssey CTF** — Certificate of Participation
