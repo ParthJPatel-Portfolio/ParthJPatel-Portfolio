@@ -9,12 +9,9 @@ I enjoy learning by building and investigating, whether that's analyzing securit
 
 ### Master of Cybersecurity - (September 2025 - August 2026) - Completed
 Toronto Metropolitan University  
-- Relevant Courses: Fundamentals of Security Technologies, Fundamentals of Information Assurance, Network Security, Security Operations, Business Continuity and Disaster Recovery, Cybersecurity Risk Management, Security Architecture, Simulations in the Cyber Range, Applied Cryptography
 
 ### Bachelor of Engineering, Computer Engineering - (September 2021 - April 2025) - Completed
 York University
-- Relevant courses: Computer Networks, Computer Security, Mobile Communications, Robotics, Operating Systems, Applied Machine Learning, Fundamentals of Data Structures, Object Oriented Programming, Software Design, Software Engineering Requirements, Design and Analysis of Algorithms, Professional Engineering Practice
-
 
 ## Certifications & Training
 - (ISC)² Certified in Cybersecurity (CC)
@@ -22,10 +19,6 @@ York University
 - CSPT 1000 – Fundamentals of Penetration Testing
 - CSPT 1020 - Web Application Penetration Testing
 - TryHackMe 2026: An AI Odyssey CTF (Certificate of Participation)
-
-## Interests
-- SOC Analysis (SIEM, log analysis, incident response)
-- Blue Team / Defensive Security
 
 ## Technical Skills
 - Networking: HTTP, HTTPS, DNS, TCP/IP, Firewalls, VPN
@@ -37,10 +30,7 @@ York University
 - Vulnerability Management Tools: Tenable Nessus
 - Offensive Security Tools/Platforms: Caldera, Metasploit
 - Core Concepts: Authentication, Authorization, Access Control, Encryption, OWASP Top 10, Web Application Security Concepts, Common Attack Techniques, Security Investigations
-- Version Control and Productivity: Git and Github
   
-
-
 ## Cybersecurity Projects & Writeups
 - TryHackMe Writeups (HTTP, HTTPS, Cookies, Status Codes)
 - Windows Server VM Vulnerability Assessment: [Vulnerability Assessment & Security Analysis of Windows Server 2012 and 2016 Virtual Machines](./Vulnerability%20Management/Vulnerability%20Assessment%20%26%20Security%20Analysis%20of%20Windows%20Server%202012%20and%202016%20Virtual%20Machines.pdf)
