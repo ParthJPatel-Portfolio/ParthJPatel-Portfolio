@@ -17,7 +17,7 @@
 
 Cybersecurity graduate with a background in Computer Engineering and a strong passion for **defensive security, SOC operations, threat detection, vulnerability assessment, and incident response**. 
 
-I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I enjoy learning by building and investigating—whether analyzing security risks, mapping threats to **MITRE ATT&CK**, conducting comprehensive security assessments, or working through hands-on labs and CTF challenges.
+I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I enjoy learning by building and investigating, whether it's analyzing security risks, mapping threats to **MITRE ATT&CK**, conducting comprehensive security assessments, or working through hands-on labs and CTF challenges.
 
 ---
 
