@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthjigneshpatel)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/ParthJPatel-Portfolio)
-[![ISC2 Certified](https://img.shields.io/badge/ISC²-CC%20Certified-red?style=flat)](https://www.isc2.org/)
+[![ISC2 Certified](https://img.shields.io/badge/ISC²-CC%20Certified-red?style=flat)](https://www.credly.com/badges/d5829c5f-2c84-4810-85d1-ec5d2be11be1/public_url)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-orange?style=flat)](https://www.comptia.org/)
 
 </div>
@@ -81,7 +81,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 ![NIST](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-blue?style=flat) ![CIS Controls](https://img.shields.io/badge/CIS%20Controls-v8.1-green?style=flat) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat) ![NIST RMF](https://img.shields.io/badge/NIST%20RMF-Risk%20Management-orange?style=flat)
 
 ### **Operating Systems & Languages**
-![Linux](https://img.shields.io/badge/Linux-Administration-blue?style=flat) ![Windows](https://img.shields.io/badge/Windows-Server%20Security-green?style=flat) ![Python](https://img.shields.io/badge/Python-Scripting-red?style=flat) 
+![Linux](https://img.shields.io/badge/Linux-blue?style=flat) ![Windows](https://img.shields.io/badge/Windows-green?style=flat) ![Python](https://img.shields.io/badge/Python-Scripting-red?style=flat) 
 
 ---
 
@@ -132,7 +132,6 @@ York University | *September 2021 - April 2025*
 
 - **LinkedIn:** [linkedin.com/in/parthjigneshpatel](https://www.linkedin.com/in/parthjigneshpatel)
 - **GitHub:** [github.com/ParthJPatel-Portfolio](https://github.com/ParthJPatel-Portfolio)
-- **Email:** parth.j.patel@outlook.com
 
 ---
 
