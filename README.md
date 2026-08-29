@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Cybersecurity Master's Graduate | Bachelors in Computer Engineering | Defensive Security | Incident Response | Threat Analysis**
+**Cybersecurity Master's Graduate | Bachelor's in Computer Engineering | Defensive Security | Incident Response | Threat Analysis**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthjigneshpatel)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/ParthJPatel-Portfolio)
