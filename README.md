@@ -24,7 +24,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Tools:** Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
    - **Focus:** Security architecture design for cloud-native environments, defense-in-depth design, AI security governance
    - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
-   - **Key Deliverables:** 10+ security controls, 3-phase security roadmap, security architecture design
+   - **Key Deliverables:** 10+ security controls, Security Implementation roadmap, security architecture design
 
 ### 2. **Windows Server Vulnerability Assessment & Remediation**
    - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
