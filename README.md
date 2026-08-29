@@ -24,7 +24,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 ## 🚀 Featured Projects
 
 ### 1. **Cloud ERP Security Architecture & Risk Assessment**
-   - **Tools:** AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
+   - **Tools:** Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
    - **Focus:** Security architecture design for cloud-native environments, defense-in-depth design, AI security governance
    - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
    - **Key Deliverables:** 10+ security controls, 3-phase security roadmap, security architecture design
@@ -36,7 +36,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Key Results:** Identified 15+ open services, 8 vulnerabilities
 
 ### 3. **ML-Based Intrusion Detection System**
-   - **Tools:** Python, Machine Learning, Network Analysis
+   - **Tools:** Weka, Machine Learning, Network Analysis
    - **Focus:** Anomaly detection, threat classification, network traffic analysis
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
    - **Key Capability:** Automated detection of suspicious network patterns using supervised learning
