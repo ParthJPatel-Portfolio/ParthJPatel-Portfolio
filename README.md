@@ -45,7 +45,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Tools:** Weka, Machine Learning, Network Analysis
    - **Focus:** Anomaly detection, threat classification, network traffic analysis
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
-   - **Key Capability:** 99% network traffic accuracy classification
+   - **Key Results:** 99% network traffic accuracy classification
 
 ### 5. **Network Forensics & Security Incident Investigation**
    - **Tools:** Wireshark, Kali Linux, MITRE ATT&CK, PCAP Analysis
