@@ -50,29 +50,30 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
    - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE mapping
 
-### 7. **Autonomous Robot Navigation Project**
-
-- **Tools:** Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy
-- **Focus:** Automation, robotics, navigation, software development, and hardware/software integration
-- **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
-
-### 8. **Automated Plant Watering System**
-
-- **Tools:** Arduino, Sensors, C/C++, Embedded Systems
-- **Focus:** Automation, sensor monitoring, hardware control
-- **Key Results:** Developed an automated watering system using soil moisture sensing and microcontroller-based control
-
-### 9. **Secure Messaging Simulation**
+### 6. **Secure Messaging Simulation**
    - **Tools:** Cryptography, Python, Protocol Design
    - **Focus:** Cryptographic protocol implementation, secure communication design
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
-### 10. **Healthcare Risk Assessment Report**
+### 7. **Healthcare Risk Assessment Report**
    - **Tools:** NIST RMF, CIS Controls v8.1, Risk Analysis
    - **Focus:** Comprehensive risk assessment for healthcare environments
    - 📂 [View Full Report](./Risk%20Management%20Projects/Hypothetical%20Walk-in%20Clinic%20Risk%20Assessment%20Report.pdf)
    - **Key Deliverables:** 70+ page assessment, 15+ asset analysis, control recommendations
 
+### Computer Engineering Projects:
+
+### 1. **Autonomous Robot Navigation Project**
+- **Tools:** Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy
+- **Focus:** Automation, robotics, navigation, software development, and hardware/software integration
+-  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-)**
+- **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
+
+### 2. **Automated Plant Watering System**
+- **Tools:** Arduino Grove Microcontroller Board, Java, Sensors, IntelliJ
+- **Focus:** Automation, sensor monitoring, hardware/software integration
+-  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants)**
+- **Key Results:** Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.
 ---
 
 ## 💻 Technical Skills
