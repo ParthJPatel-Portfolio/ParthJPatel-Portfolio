@@ -69,7 +69,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 -  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-)**
 - **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
 
-### 2. **Automated Plant Watering System**
+### 2. **Automated Watering System For Plants**
 - **Tools:** Arduino Grove Microcontroller Board, Java, Sensors, IntelliJ
 - **Focus:** Automation, sensor monitoring, hardware/software integration
 -  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants)**
