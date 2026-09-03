@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 About Me
-I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I enjoy learning by building and investigating, whether it's analyzing security risks, mapping threats to **MITRE ATT&CK**, conducting comprehensive security assessments, or working through hands-on labs and CTF challenges.
+I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I also bring a Computer Engineering background with experience in robotics, automation, and hardware/software integration. I enjoy learning through hands-on cybersecurity projects and investigations while continuing to build on my Computer Engineering background through robotics, programming, automation, and hardware projects.
 
 ---
 
