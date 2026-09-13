@@ -38,7 +38,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
    - **Key Results:** 99% network traffic accuracy classification
 
-### 4. **Network Forensics & Security Incident Investigation**
+### 4. **Network Forensics Incident Investigation**
    - **Tools:** Wireshark, Kali Linux, MITRE ATT&CK, PCAP Analysis
    - **Focus:** Network traffic analysis, incident timeline reconstruction, attacker behavior mapping
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
