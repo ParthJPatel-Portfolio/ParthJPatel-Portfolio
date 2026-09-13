@@ -20,42 +20,36 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 
 ## 🚀 Featured Projects
 
-### 1. **Cloud ERP Security Architecture & Risk Assessment**
+### 1. **Cloud ERP Security Architecture Design**
    - **Tools:** Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
    - **Focus:** Security architecture design for cloud-native environments, defense-in-depth design, AI security governance
    - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
    - **Key Deliverables:** 10+ security controls, Security Implementation roadmap, security architecture design
 
-### 2. **Windows Server Vulnerability Assessment & Remediation**
+### 2. **Windows Server VM Vulnerability Assessment **
    - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
    - **Focus:** Vulnerability identification, risk prioritization, remediation strategies
    - 📂 [View Full Report](./Vulnerability%20Management/Vulnerability%20Assessment%20%26%20Security%20Analysis%20of%20Windows%20Server%202012%20and%202016%20Virtual%20Machines.pdf)
    - **Key Results:** Identified 15+ open services, 8 vulnerabilities
 
-### 3. **Healthcare Risk Assessment Report**
-   - **Tools:** NIST RMF, CIS Controls v8.1, Risk Analysis
-   - **Focus:** Comprehensive risk assessment for healthcare environments
-   - 📂 [View Full Report](./Risk%20Management%20Projects/Hypothetical%20Walk-in%20Clinic%20Risk%20Assessment%20Report.pdf)
-   - **Key Deliverables:** 70+ page assessment, 15+ asset analysis, control recommendations
-
-### 4. **ML-Based Intrusion Detection System**
+### 3. **ML-Based Intrusion Detection System**
    - **Tools:** Weka, Machine Learning, Network Analysis
    - **Focus:** Anomaly detection, threat classification, network traffic analysis
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
    - **Key Results:** 99% network traffic accuracy classification
 
-### 5. **Network Forensics & Security Incident Investigation**
+### 4. **Network Forensics & Security Incident Investigation**
    - **Tools:** Wireshark, Kali Linux, MITRE ATT&CK, PCAP Analysis
    - **Focus:** Network traffic analysis, incident timeline reconstruction, attacker behavior mapping
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
    - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE mapping
 
-### 6. **Secure Messaging Simulation**
+### 5. **Secure Messaging Simulation**
    - **Tools:** Cryptography, Python, Protocol Design
    - **Focus:** Cryptographic protocol implementation, secure communication design
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
-### 7. **Healthcare Risk Assessment Report**
+### 6. **Healthcare Clinic Risk Assessment**
    - **Tools:** NIST RMF, CIS Controls v8.1, Risk Analysis
    - **Focus:** Comprehensive risk assessment for healthcare environments
    - 📂 [View Full Report](./Risk%20Management%20Projects/Hypothetical%20Walk-in%20Clinic%20Risk%20Assessment%20Report.pdf)
