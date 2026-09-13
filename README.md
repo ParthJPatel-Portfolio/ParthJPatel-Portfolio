@@ -26,7 +26,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
    - **Key Deliverables:** 10+ security controls, Security Implementation roadmap, security architecture design
 
-### 2. **Windows Server VM Vulnerability Assessment **
+### 2. **Windows Server VM Vulnerability Assessment**
    - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
    - **Focus:** Vulnerability identification, risk prioritization, remediation strategies
    - 📂 [View Full Report](./Vulnerability%20Management/Vulnerability%20Assessment%20%26%20Security%20Analysis%20of%20Windows%20Server%202012%20and%202016%20Virtual%20Machines.pdf)
