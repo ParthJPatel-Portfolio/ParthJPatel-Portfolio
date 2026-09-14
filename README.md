@@ -29,7 +29,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 ### 2. **Windows Server VM Vulnerability Assessment**
    - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
    - **Focus:** Vulnerability identification, risk prioritization, remediation strategies
-   - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment))
+   - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment)
    - **Key Results:** Identified 15+ open services, 8 vulnerabilities
 
 ### 3. **ML-Based Intrusion Detection System**
