@@ -44,9 +44,9 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
    - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE mapping
 
-### 5. **Secure Messaging Simulation**
+### 5. **Authenticated Secure Messaging Application**
    - **Tools:** Cryptography, Python, Protocol Design
-   - **Focus:** Cryptographic protocol implementation, secure communication design
+   - **Focus:** Proof-of-concept cryptographic protocol implementation, secure communication design including components such as authenticated key exchange, digital signatures, deriving session keys, etc.
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
 ### 6. **Healthcare Clinic Risk Assessment**
