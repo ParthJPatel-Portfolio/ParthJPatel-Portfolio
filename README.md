@@ -42,7 +42,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Tools:** Wireshark, Kali Linux, MITRE ATT&CK, PCAP Analysis
    - **Focus:** Network traffic analysis, incident timeline reconstruction, attacker behavior mapping
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
-   - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE mapping
+   - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE ATT&CK mapping
 
 ### 5. **Authenticated Secure Messaging Application**
    - **Tools:** Cryptography, Python, Protocol Design
