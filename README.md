@@ -59,7 +59,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 
 ### 1. **Autonomous Robot Navigation Project**
 - **Tools:** Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy
-- **Focus:** Automation, robotics, navigation, software development, and hardware/software integration
+- **Focus:** Automation, robotics, navigation, software development
 -  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-)**
 - **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
 
