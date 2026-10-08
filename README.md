@@ -21,7 +21,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 ## 🚀 Featured Projects
 
 ### 1. **Cloud ERP Security Architecture Design**
-   - **Tools:** Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
+   - **Tools:** Proposed Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
    - **Focus:** Defence-in-depth and proof-of-concept security architecture design (with AI Security governance) for an ERP organization transitioning to an AWS-based SaaS platform
    - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
    - **Key Deliverables:** 10+ security controls, Security Implementation roadmap, security architecture design
