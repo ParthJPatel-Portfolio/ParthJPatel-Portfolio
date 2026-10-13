@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 About Me
-I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I also bring a Computer Engineering background with experience in robotics, automation, and hardware/software integration. I enjoy learning through hands-on cybersecurity projects and investigations while continuing to build on my Computer Engineering background through robotics, programming, automation, data analysis, and hardware projects.
+Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineering and hands-on project experience in incident response, vulnerability assessment, network security, and cloud security. I have developed hands-on experience through cybersecurity projects, cyber range simulations, vulnerability assessments, and threat investigations using industry-standard tools like **Splunk, Wireshark, Nessus, Nmap, and Kali Linux**. I also bring a Computer Engineering background with experience in robotics, automation, and hardware/software integration. My Computer Engineering background strengthened my understanding of networking, operating systems, hardware/software integration, and system security. I enjoy applying my technical and analytical skills to investigate security threats, analyze system vulnerabilities, troubleshoot technical issues, and explore how automation and emerging technologies can improve threat detection and incident response.
 
 ---
 
