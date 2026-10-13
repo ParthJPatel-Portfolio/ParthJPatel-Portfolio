@@ -30,7 +30,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
    - **Focus:** Vulnerability identification, risk prioritization, remediation strategies
    - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment)
-   - **Key Results:** Identified 15+ open services, 8 vulnerabilities, and created a prioritized risk register with risks ranked based on exploitability, likelihood, and impact to guide remediation plans
+   - **Key Results:** Identified 15+ open services, 8 vulnerabilities, and created a prioritized risk register with risks ranked based on exploitability, likelihood, and impact to guide remediation plans and improve the security posture of the Windows Server VM environments
 
 ### 3. **ML-Based Intrusion Detection System**
    - **Tools:** Weka, Machine Learning, Network Analysis
