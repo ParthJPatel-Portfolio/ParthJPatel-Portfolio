@@ -46,7 +46,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
 
 ### 5. **Authenticated Secure Messaging Application**
    - **Tools:** Cryptography, Python, Protocol Design
-   - **Focus:** Proof-of-concept cryptographic protocol implementation, secure communication design including components such as authenticated key exchange, digital signatures, deriving session keys, etc.
+   - **Focus:** Proof-of-concept cryptographic protocol implementation, secure communication design including cryptographic components such as authenticated key exchange, digital signatures, deriving session keys, etc.
    - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
 ### 6. **Healthcare Clinic Risk Assessment**
