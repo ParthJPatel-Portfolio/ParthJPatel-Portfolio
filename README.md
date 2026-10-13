@@ -53,7 +53,7 @@ I have developed hands-on experience through cybersecurity projects, cyber range
    - **Tools:** NIST RMF, CIS Controls v8.1, Risk Analysis
    - **Focus:** Comprehensive risk assessment for a fictional simulated healthcare clinic
    - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Healthcare-Clinic-Risk-Assessment)
-   - **Key Deliverables:** 70+ page assessment, 15+ asset analysis, control recommendations
+   - **Key Deliverables:** 70+ page assessment, 15+ asset analysis, control recommendations to mitigate risks using the CIS Controls v8.1 framework
 
 ### Computer Engineering Projects:
 
