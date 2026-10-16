@@ -68,6 +68,15 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 - **Focus:** Automation, sensor monitoring, hardware/software integration
 -  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants)**
 - **Key Results:** Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.
+
+### 3. KingChess AI-Powered Chess Coaching Platform
+- **Tools:** React, TypeScript, Python, Git, GitHub, VS Code
+- **Focus:** Frontend development, interactive user interfaces, AI-assisted development, and version control.
+- **Project:** Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights
+- **Contributions**: Developed and refined frontend components using React and TypeScript, made UI changes with AI-assisted coding tools, and used Git and GitHub to manage code changes and version control
+- **Platform Reach**: The platform serves 400+ users and analyzed 1000+ games
+- 📂 **[View Repository](https://github.com/AuraCodez/kingchess)**
+
 ---
 
 ## 💻 Technical Skills
@@ -90,8 +99,14 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 ### **Security Frameworks & Standards**
 ![NIST](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-blue?style=flat) ![CIS Controls](https://img.shields.io/badge/CIS%20Controls-v8.1-green?style=flat) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat) ![NIST RMF](https://img.shields.io/badge/NIST%20RMF-Risk%20Management-orange?style=flat)
 
-### **Operating Systems & Languages**
-![Linux](https://img.shields.io/badge/Linux-blue?style=flat) ![Windows](https://img.shields.io/badge/Windows-green?style=flat) ![Python](https://img.shields.io/badge/Python-Scripting-red?style=flat) 
+## **Languages**
+![Java](https://img.shields.io/badge/Java-Language-blue?style=flat) ![Python](https://img.shields.io/badge/Python-Language-green?style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-Language-red?style=flat)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-red?style=flat) ![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-orange?style=flat)
+
+### **Tools & Technologies**
+![Arduino Grove](https://img.shields.io/badge/Arduino%20Grove-Hardware%20Sensors-blue?style=flat) ![Weka](https://img.shields.io/badge/Weka-Machine%20Learning-green?style=flat) ![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-red?style=flat) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-orange?style=flat) ![ROS 2](https://img.shields.io/badge/ROS%202-Robotics-blue?style=flat) ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-green?style=flat)
 
 ---
 
