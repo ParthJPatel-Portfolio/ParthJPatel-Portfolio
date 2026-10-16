@@ -71,7 +71,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 ### 3. KingChess AI-Powered Chess Coaching Platform
 - **Tools:** React, TypeScript, Python, Git, GitHub, VS Code
-- **Focus:** Frontend development, interactive user interfaces, AI-assisted development, and version control.
+- **Focus:** Frontend development, interactive user interfaces, AI-assisted development, and version control
 - **Project:** Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights
 - **Contributions**: Developed and refined frontend components using React and TypeScript, made UI changes with AI-assisted coding tools, and used Git and GitHub to manage code changes and version control
 - **Platform Reach**: The platform serves 400+ users and analyzed 1000+ games
