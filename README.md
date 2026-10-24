@@ -59,7 +59,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 ### 1. **Autonomous Robot Navigation Project**
 - **Tools:** Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy
-- **Focus:** Automation, robotics, navigation, software development
+- **Focus:** Automation, robotics, navigation, LiDAR, software development
 -  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-)**
 - **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
 
@@ -141,18 +141,7 @@ York University | *September 2021 - April 2025*
 
 **CTF Writeups:**
 - 🏁 [TryHackMe CTF Writeups & Solutions](https://github.com/ParthJPatel-Portfolio/TryHackMe-CTF-Writeups)
-
 ---
-
-## 🎯 Career Goals
-
-- **Primary Focus:** SOC Analyst / Security Analyst role in a dynamic security operations environment
-- **Skill Development:** Strengthen log analysis, threat detection, and incident response capabilities
-- **Portfolio Building:** Continue developing hands-on experience through real-world security projects and CTF challenges
-- **Industry Impact:** Contribute to organizations' security posture through proactive threat detection and vulnerability management
-
----
-
 ## 📞 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/parthjigneshpatel](https://www.linkedin.com/in/parthjigneshpatel)
