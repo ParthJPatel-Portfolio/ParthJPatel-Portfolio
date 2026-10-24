@@ -20,62 +20,75 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 ## 🚀 Featured Projects
 
-### 1. **Cloud ERP Security Architecture Design**
-   - **Tools:** Proposed Security Controls: AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework
-   - **Focus:** Defence-in-depth and proof-of-concept security architecture design (with AI Security governance) for an ERP organization transitioning to an AWS-based SaaS platform
-   - 📂 [View Project](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
-   - **Key Deliverables:** 10+ security controls, Security Implementation roadmap, security architecture design
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 2. **Windows Server VM Vulnerability Assessment**
-   - **Tools:** Nmap, Tenable Nessus, Kali Linux, VMware
-   - **Focus:** Vulnerability identification, risk prioritization, remediation strategies
-   - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment)
-   - **Key Results:** Identified 15+ open services, 8 vulnerabilities, and created a prioritized risk register with risks ranked based on exploitability, likelihood, and impact to guide remediation plans and improve the security posture of the Windows Server VM environments
+<h3>🔐 Cybersecurity Projects</h3>
 
-### 3. **ML-Based Intrusion Detection System**
-   - **Tools:** Weka, Machine Learning, Network Analysis
-   - **Focus:** Anomaly detection, threat classification, network traffic analysis
-   - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
-   - **Key Results:** 99% network traffic accuracy classification, perfect recall, F1-score and precision indicating that the system made 0 zero false positive and 0 false negative errors
+<h4>1. Cloud ERP Security Architecture Design</h4>
+<p><strong>Tools:</strong> AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework</p>
+<p><strong>Focus:</strong> Defence-in-depth and proof-of-concept security architecture design, including AI security governance, for an ERP organization transitioning to an AWS-based SaaS platform.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study">📂 View Project</a></p>
+<p><strong>Key Deliverables:</strong> 10+ security controls, security implementation roadmap, and security architecture design.</p>
 
-### 4. **Network Forensics Incident Investigation**
-   - **Tools:** Wireshark, Kali Linux, MITRE ATT&CK, PCAP Analysis
-   - **Focus:** Network traffic analysis, incident timeline reconstruction, attacker behavior mapping
-   - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
-   - **Key Deliverables:** Forensic evidence extraction, attack timeline reconstruction, MITRE ATT&CK mapping
+<h4>2. Windows Server VM Vulnerability Assessment</h4>
+<p><strong>Tools:</strong> Nmap, Tenable Nessus, Kali Linux, VMware</p>
+<p><strong>Focus:</strong> Vulnerability identification, risk prioritization, and remediation strategies.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment">📂 View Full Report</a></p>
+<p><strong>Key Results:</strong> Identified 15+ open services and 8 vulnerabilities; created a prioritized risk register based on exploitability, likelihood, and impact to guide remediation and improve the security posture of Windows Server VM environments.</p>
 
-### 5. **Authenticated Secure Messaging Application**
-   - **Tools:** Cryptography, Python, Protocol Design
-   - **Focus:** Proof-of-concept cryptographic protocol implementation, secure communication design including cryptographic components such as authenticated key exchange, digital signatures, deriving session keys, etc.
-   - 📂 [View Repository](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
+<h4>3. ML-Based Intrusion Detection System</h4>
+<p><strong>Tools:</strong> Weka, machine learning, network analysis</p>
+<p><strong>Focus:</strong> Anomaly detection, threat classification, and network traffic analysis.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System">📂 View Repository</a></p>
+<p><strong>Key Results:</strong> Achieved 99% network traffic classification accuracy. The reported precision, recall, and F1-score indicated zero false positives and zero false negatives.</p>
 
-### 6. **Healthcare Clinic Risk Assessment**
-   - **Tools:** NIST RMF, CIS Controls v8.1, Risk Analysis
-   - **Focus:** Comprehensive risk assessment for a fictional simulated healthcare clinic
-   - 📂 [View Full Report](https://github.com/ParthJPatel-Portfolio/Healthcare-Clinic-Risk-Assessment)
-   - **Key Deliverables:** 70+ page assessment, 15+ asset analysis, control recommendations to mitigate risks using the CIS Controls v8.1 framework
+<h4>4. Network Forensics Incident Investigation</h4>
+<p><strong>Tools:</strong> Wireshark, Kali Linux, MITRE ATT&amp;CK, PCAP analysis</p>
+<p><strong>Focus:</strong> Network traffic analysis, incident timeline reconstruction, and attacker behavior mapping.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation">📂 View Repository</a></p>
+<p><strong>Key Deliverables:</strong> Forensic evidence extraction, attack timeline reconstruction, and MITRE ATT&amp;CK mapping.</p>
 
-### Computer Engineering Projects:
+<h4>5. Authenticated Secure Messaging Application</h4>
+<p><strong>Tools:</strong> Cryptography, Python, protocol design</p>
+<p><strong>Focus:</strong> Proof-of-concept cryptographic protocol implementation for secure communication, including authenticated key exchange, digital signatures, and session-key derivation.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation">📂 View Repository</a></p>
 
-### 1. **Autonomous Robot Navigation Project**
-- **Tools:** Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy
-- **Focus:** Automation, robotics, navigation, LiDAR, software development
--  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-)**
-- **Key Results:** Developed an autonomous robot navigation system that generated **29 waypoints from 1,000 mapped points** for safe and efficient navigation
+<h4>6. Healthcare Clinic Risk Assessment</h4>
+<p><strong>Tools:</strong> NIST RMF, CIS Controls v8.1, risk analysis</p>
+<p><strong>Focus:</strong> Comprehensive risk assessment for a fictional, simulated healthcare clinic.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Healthcare-Clinic-Risk-Assessment">📂 View Full Report</a></p>
+<p><strong>Key Deliverables:</strong> 70+ page assessment, analysis of 15+ assets, and control recommendations using CIS Controls v8.1.</p>
 
-### 2. **Automated Watering System For Plants**
-- **Tools:** Arduino Grove Microcontroller Board, Java, Sensors, IntelliJ
-- **Focus:** Automation, sensor monitoring, hardware/software integration
--  📂 **[View Repository](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants)**
-- **Key Results:** Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.
+</td>
+<td width="50%" valign="top">
 
-### 3. KingChess AI-Powered Chess Coaching Platform
-- **Tools:** React, TypeScript, Python, Git, GitHub, VS Code
-- **Focus:** Frontend development, interactive user interfaces, AI-assisted development, and version control
-- **Project:** Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights
-- **Contributions**: Developed and refined frontend components using React and TypeScript, made UI changes with AI-assisted coding tools, and used Git and GitHub to manage code changes and version control
-- **Platform Reach**: The platform serves 400+ users and has supported the analysis of 1000+ games
-- 📂 **[View Platform](https://www.kingchess.io/)**
+<h3>⚙️ Computer Engineering Projects</h3>
+
+<h4>1. Autonomous Robot Navigation Project</h4>
+<p><strong>Tools:</strong> Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy</p>
+<p><strong>Focus:</strong> Automation, robotics, navigation, LiDAR, and software development.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-">📂 View Repository</a></p>
+<p><strong>Key Results:</strong> Developed an autonomous robot navigation system that generated <strong>29 waypoints from 1,000 mapped points</strong> and used LiDAR for obstacle detection and safe navigation.</p>
+
+<h4>2. Automated Watering System for Plants</h4>
+<p><strong>Tools:</strong> Arduino Grove microcontroller board, Java, sensors, IntelliJ</p>
+<p><strong>Focus:</strong> Automation, sensor monitoring, and hardware/software integration.</p>
+<p><a href="https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants">📂 View Repository</a></p>
+<p><strong>Key Results:</strong> Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.</p>
+
+<h4>3. KingChess AI-Powered Chess Coaching Platform</h4>
+<p><strong>Tools:</strong> React, TypeScript, Python, Git, GitHub, VS Code</p>
+<p><strong>Focus:</strong> Frontend development, interactive user interfaces, AI-assisted development, and version control.</p>
+<p><strong>Project:</strong> Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights.</p>
+<p><strong>Contributions:</strong> Developed and refined frontend components using React and TypeScript, made UI changes with AI-assisted coding tools, and used Git and GitHub to manage code changes and version control.</p>
+<p><strong>Platform Reach:</strong> The platform serves 400+ users and has supported the analysis of 1,000+ games.</p>
+<p><a href="https://www.kingchess.io/">📂 View Platform</a></p>
+
+</td>
+</tr>
+</table>
 
 ---
 
