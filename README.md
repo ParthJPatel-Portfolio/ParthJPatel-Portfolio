@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthjigneshpatel)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/ParthJPatel-Portfolio)
 [![ISC2 Certified](https://img.shields.io/badge/ISC²-CC%20Certified-red?style=flat)](https://www.credly.com/badges/d5829c5f-2c84-4810-85d1-ec5d2be11be1/public_url)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-orange?style=flat)](https://www.comptia.org/)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20-orange?style=flat)](https://www.comptia.org/)
 
 </div>
 
@@ -136,7 +136,7 @@ York University | *September 2021 - April 2025*
 ## 🏆 Certifications & Training
 
 - ✅ **ISC² Certified in Cybersecurity (CC)** — September 2025
-- 🔄 **CompTIA Security+** — In Progress 
+- 🔄 **CompTIA Security+** — October 2026 
 - ✅ **CSPT 1000** – Fundamentals of Penetration Testing
 - ✅ **CSPT 1020** – Web Application Penetration Testing
 - ✅ **TryHackMe 2026: An AI Odyssey CTF** — Certificate of Participation
