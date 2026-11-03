@@ -52,7 +52,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 <h4>5. Authenticated Secure Messaging Application</h4>
 <p><strong>Tools:</strong> Cryptography, Python, protocol design</p>
-<p><strong>Focus:</strong> Proof-of-concept cryptographic protocol implementation for secure communication, including authenticated key exchange, digital signatures, and session-key derivation.</p>
+<p><strong>Focus:</strong> Proof-of-concept cryptographic protocol implementation for secure communication, including authenticated key exchange, digital signatures, session-key derivation, basic forward secrecy protection and asymmetric encryption (Diffie-Hellman).</p>
 <p><a href="https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation">📂 View Repository</a></p>
 
 <h4>6. Healthcare Clinic Risk Assessment</h4>
