@@ -70,7 +70,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 <p><strong>Tools:</strong> Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy, SciPy</p>
 <p><strong>Focus:</strong> Automation, robotics, navigation, LiDAR, and software development.</p>
 <p><a href="https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-">📂 View Repository</a></p>
-<p><strong>Key Results:</strong> Developed an autonomous robot navigation system that generated <strong>29 waypoints from 1,000 mapped points</strong> and used LiDAR for obstacle detection and safe navigation.</p>
+<p><strong>Key Results:</strong> Developed an autonomous robot navigation system that generated <strong>29 waypoints as the shortest possible collision-free route from 1,000 mapped points</strong> and used LiDAR for obstacle detection and safe navigation.</p>
 
 <h4>2. Automated Watering System for Plants</h4>
 <p><strong>Tools:</strong> Arduino Grove microcontroller board, Java, soil moisture sensor, MOSFET, Water Pump, IntelliJ</p>
