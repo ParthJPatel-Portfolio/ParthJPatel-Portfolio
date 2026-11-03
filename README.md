@@ -73,8 +73,8 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 <p><strong>Key Results:</strong> Developed an autonomous robot navigation system that generated <strong>29 waypoints from 1,000 mapped points</strong> and used LiDAR for obstacle detection and safe navigation.</p>
 
 <h4>2. Automated Watering System for Plants</h4>
-<p><strong>Tools:</strong> Arduino Grove microcontroller board, Java, sensors, IntelliJ</p>
-<p><strong>Focus:</strong> Automation, sensor monitoring, and hardware/software integration.</p>
+<p><strong>Tools:</strong> Arduino Grove microcontroller board, Java, soil moisture sensor, MOSFET, Water Pump, IntelliJ</p>
+<p><strong>Focus:</strong> Automation, sensor monitoring, Object-oriented Programming, and hardware/software integration.</p>
 <p><a href="https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants">📂 View Repository</a></p>
 <p><strong>Key Results:</strong> Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.</p>
 
@@ -136,7 +136,7 @@ York University | *September 2021 - April 2025*
 ## 🏆 Certifications & Training
 
 - ✅ **ISC² Certified in Cybersecurity (CC)** — September 2025
-- 🔄 **CompTIA Security+** — October 2026 
+- ✅ **CompTIA Security+** — October 2026 
 - ✅ **CSPT 1000** – Fundamentals of Penetration Testing
 - ✅ **CSPT 1020** – Web Application Penetration Testing
 - ✅ **TryHackMe 2026: An AI Odyssey CTF** — Certificate of Participation
