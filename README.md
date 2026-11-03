@@ -66,7 +66,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 <h3>⚙️ Computer Engineering Projects</h3>
 
-<h4>1. Autonomous Robot Navigation Project</h4>
+<h4>1. Autonomous Robot Navigation and Path Planning Project</h4>
 <p><strong>Tools:</strong> Python, ROS 2, Gazebo, OpenCV, Matplotlib, NumPy, SciPy</p>
 <p><strong>Focus:</strong> Automation, robotics, navigation, LiDAR, and software development.</p>
 <p><a href="https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-">📂 View Repository</a></p>
