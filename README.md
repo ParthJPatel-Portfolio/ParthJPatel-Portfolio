@@ -78,7 +78,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 <p><a href="https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants">📂 View Repository</a></p>
 <p><strong>Key Results:</strong> Designed and developed an automated watering system that monitored soil moisture and activated a water pump when plants reached a predefined dryness threshold.</p>
 
-<h4>3. KingChess AI-Powered Chess Coaching Platform</h4>
+<h4>3. KingChess - Personalized AI Chess Coach</h4>
 <p><strong>Tools:</strong> React, TypeScript, Python, Git, GitHub, VS Code</p>
 <p><strong>Focus:</strong> Frontend development, interactive user interfaces, AI-assisted development, and version control.</p>
 <p><strong>Project:</strong> Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights.</p>
