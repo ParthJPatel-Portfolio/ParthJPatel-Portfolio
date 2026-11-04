@@ -82,8 +82,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 <p><strong>Tools:</strong> React, TypeScript, Python, Git, GitHub, VS Code</p>
 <p><strong>Focus:</strong> Frontend development, interactive user interfaces, AI-assisted development, and version control.</p>
 <p><strong>Project:</strong> Collaborating with a friend on an AI-powered chess coaching platform that connects with Chess.com and Lichess to help users review games, identify mistakes, and access personalized coaching insights.</p>
-<p><strong>Contributions:</strong> Developed and refined frontend components using React and TypeScript, made UI changes with AI-assisted coding tools, and used Git and GitHub to manage code changes and version control.</p>
-<p><strong>Platform Reach:</strong> The platform serves 400+ users and has supported the analysis of 1,000+ games.</p>
+<p><strong>Contributions:</strong> Developed and refined frontend components using React and TypeScript, enhancing landing-page layouts, content hierarchy, calls to action, and navigation. Improved UI/UX through responsive design refinements and interactive elements, including image carousels showcasing user reviews and testimonials. Used AI-assisted coding tools (GitHub Copilot) to implement, support, and debug frontend changes and Git/GitHub for version control and collaborative development.</p><p><strong>Platform Reach:</strong> The platform serves 400+ users and has supported the analysis of 1,000+ games.</p>
 <p><a href="https://www.kingchess.io/">📂 View Platform</a></p>
 
 </td>
