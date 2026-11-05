@@ -106,7 +106,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-blue?style=flat) ![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-green?style=flat) ![Caldera](https://img.shields.io/badge/Caldera-Adversary%20Simulation-red?style=flat) ![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-orange?style=flat)
 
 ### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-blue?style=flat) ![GCP](https://img.shields.io/badge/GCP-Cloud%20Platform-green?style=flat) ![IAM](https://img.shields.io/badge/IAM-Identity%20%26%20Access-red?style=flat) ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-orange?style=flat)
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Platform-green?style=flat) 
 
 ### **Security Frameworks & Standards**
 ![NIST](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-blue?style=flat) ![CIS Controls](https://img.shields.io/badge/CIS%20Controls-v8.1-green?style=flat) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat) ![NIST RMF](https://img.shields.io/badge/NIST%20RMF-Risk%20Management-orange?style=flat)
