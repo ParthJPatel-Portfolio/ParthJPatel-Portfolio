@@ -28,7 +28,7 @@ Recent Master of Cybersecurity graduate with a Bachelor's in Computer Engineerin
 
 <h4>1. Cloud ERP Security Architecture Design</h4>
 <p><strong>Tools:</strong> AWS, IAM, Zero Trust, DevSecOps, NIST AI Risk Management Framework</p>
-<p><strong>Focus:</strong> Defence-in-depth and proof-of-concept security architecture design, including AI security governance, for an ERP organization transitioning to an AWS-based SaaS platform.</p>
+<p><strong>Focus:</strong> Defence-in-depth and proof-of-concept security architecture design, including AI security governance, for a simulated fictional ERP software development company  transitioning to an AWS-based SaaS platform.</p>
 <p><a href="https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study">📂 View Project</a></p>
 <p><strong>Key Deliverables:</strong> 10+ security controls, security implementation roadmap, and security architecture design.</p>
 
