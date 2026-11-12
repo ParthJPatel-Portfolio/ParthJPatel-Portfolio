@@ -65,9 +65,9 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 
 `Weka` `Machine Learning` `CIC-IDS2017`
 
-- Analyzed network traffic using machine learning classification techniques.
-- Evaluated J48, kNN, and Naive Bayes models.
-- Reported up to 99.99% classification accuracy.
+- Developed a ML-based Intrusion Detection System using the CIC-IDS2017 dataset, analyzing 200,000 network traffic flows across 118 engineered features to distinguish benign and malicous network activity
+- Trained and evaluated 3 supervised models (J48 Decision Tree, k-Nearest Neighbours, and Naive Bayes) in Weka, using 10-fold cross-validation
+- Reported up to 99.99% classification accuracy and applied feature selection to identify the top 10 network indicators of compromise to examine the features most useful in classifying malicious traffic
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/Machine-Learning-Based-Intrusion-Detection-System)
 
@@ -80,9 +80,10 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 
 `Python` `Ed25519` `X25519` `AES-256-GCM`
 
-- Implemented authenticated key exchange and digital signatures.
-- Used HKDF-SHA256 for session-key derivation.
-- Evaluated the protocol against 7 attack scenarios.
+- Developed a proof of concept Python-based secure messaging prototype implementing Ed25519 digital signatures, X25519 key
+exchange, HKDF-SHA256 key derivation, and AES-256-GCM authenticated encryption between two users
+- Implemented cryptographic mechanisms to support participant authentication, secure session-key establishment,
+message confidentiality, and integrity
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
