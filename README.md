@@ -84,6 +84,7 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 exchange, HKDF-SHA256 key derivation, and AES-256-GCM authenticated encryption between two users
 - Implemented cryptographic mechanisms to support participant authentication, secure session-key establishment,
 message confidentiality, and integrity
+- Evaluated 7 attack scenarios with assistance from Claude to develop and test attack cases, demonstrating protection against 6 attacks including replay, man-in-the-middle, header modification, and more
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/secure-messaging-simulation)
 
