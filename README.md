@@ -33,9 +33,8 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 
 `Nessus` `Nmap` `Kali Linux` `VMware`
 
-- Assessed Windows Server environments through network reconnaissance and vulnerability scanning.
-- Identified 15+ open services and 8 vulnerabilties
-- Developed a prioritized risk register and remediation recommendations.
+- Assessed Windows Server environments through network reconnaissance and vulnerability scanning, leading to the identification of 8 vulnerabilities and 15+ open ports
+- Analyzed vulnerability severity, exploitability, and potential impact to develop a prioritized risk register with remediation recommendations, including restricting SNMP access, disabling unnecessary services, and replacing Telnet with SSH
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment)
 
@@ -48,9 +47,9 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 
 `Wireshark` `Kali Linux` `MITRE ATT&CK`
 
-- Investigated network traffic and suspicious activity related to a cloud compromise from an exposed daashboard
-- Extracted forensic evidence and analyzed network indicators.
-- Reconstructed an incident timeline and mapped attacker behavior.
+- Investigated a simulated cloud compromise by analyzing 2 PCAP files in Wireshark, correlating network evidence to reconstruct unauthorized access, data exfiltration, and attacker persistence
+- Traced an attack sequence involving 3 failed logins followed by a successful login, access to 3 Swift containers, exfiltration of 28 user records, and privileged account creation, mapping observed activity to MITRE ATT&CK to support incident reconstruction
+  
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/Network-Forensics-Incident-Investigation)
 
@@ -99,9 +98,8 @@ message confidentiality, and integrity
 
 `AWS` `IAM` `Zero Trust` `NIST AI RMF`
 
-- Designed a proof-of-concept security architecture for a simulated SaaS ERP migration.
-- Developed 10+ security controls.
-- Created a security implementation roadmap and risk analysis.
+- Collaborated in a team of 3 students to assess the security and governance risks associated with a simulated global ERP organization's migration to cloud-based AWS SaaS, covering identity and access management, application security, infrastructure, and data governance
+- Designed a proof-of-concept security architecture with 10+ proposed security controls, including IAM, SSO, RBAC, MFA, network segmentation, and API security, with a phased 12-month implementation roadmap
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/ERP-Security-Architecture-Case-Study)
 
@@ -114,9 +112,12 @@ message confidentiality, and integrity
 
 `NIST RMF` `CIS Controls v8.1` `Risk Analysis`
 
-- Assessed 15+ assets within a simulated healthcare environment.
-- Developed a 70+ page risk assessment.
-- Evaluated security controls and documented remediation recommendations.
+- Collaborated within a team of 4 students to conduct a cybersecurity risk assessment for a fictional simulated healthcare
+organization, evaluating 15+ organizational assets, threats, and vulnerabilities
+- Translated technical security findings into clear risk narratives and business-focused recommendations for executive
+understanding
+- Developed mitigation strategies aligned with CIS Controls v8.1, including MFA, access control, network hardening,
+and data protection to align technical controls with organizational objectives
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/Healthcare-Clinic-Risk-Assessment)
 
