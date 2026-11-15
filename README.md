@@ -130,9 +130,8 @@ and data protection to align technical controls with organizational objectives
 | Project | Technologies | Highlights |
 |---|---|---|
 | [KingChess](https://www.kingchess.io/) | React, TypeScript, Python | Frontend development for a chess coaching platform serving 500+ users and supporting 1,000+ game analyses. |
-| [Autonomous Robot Navigation](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-) | Python, ROS 2, Gazebo, OpenCV | Developed navigation and path-planning algorithms using LiDAR and 29 waypoints. |
-| [Automated Plant Watering](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants) | Java, Arduino Grove, Sensors | Built an automated watering system using soil moisture monitoring and pump control. |
-
+| [Autonomous Robot Navigation](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-) | Python, ROS 2, Gazebo, OpenCV | Developed an autonomous navigation pipeline using Python, ROS 2, and Gazebo, converting a 20m $\times$ 20m apartment floor plan into binary occupancy maps with NumPy and OpenCV, implementing RRT, Kruskal's, and Dijkstra's algorithms to process 1,000 sample points, generating a collision-free route across 29 waypoints and integrating a three-state finite state machine with odometry-based tracking and LiDAR for collision-free robot navigation |
+| [Automated Plant Watering](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants) | Java, Arduino Grove, Soil Moisture Sensor, Water Pump | Developed a Java-controlled Arduino Grove automated watering system integrating soil moisture sensing, object-oriented control logic, and consecutive-reading validation to activate a water pump at predefined moisture thresholds while reducing false triggers from sensor fluctuations| 
 ## 💻 Technical Skills
 
 **Security Operations & Incident Response**
