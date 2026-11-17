@@ -21,6 +21,8 @@ Recent Cybersecurity Master's Graduate from Toronto Metropolitan University with
 
 Experienced with security tools and technologies including Nessus, Wireshark, Nmap, and Kali Linux. Also interested in automation, software development, robotics, and hardware/software integration.
 
+> 🤖 **Looking for my computer engineering work?** Jump to [Engineering & Development](#%EF%B8%8F-engineering--development) for robotics, software, and hardware projects.
+
 ## 🛡️ Featured Projects
 
 <table>
