@@ -22,7 +22,41 @@ Recent Cybersecurity Master's Graduate from Toronto Metropolitan University with
 Experienced with security tools and technologies including Nessus, Wireshark, Nmap, and Kali Linux. Also interested in automation, software development, robotics, and hardware/software integration.
 
 > 🤖 **Looking for my computer engineering work?** Jump to [Engineering & Development](#%EF%B8%8F-engineering--development) for robotics, software, and hardware projects.
+---
+## 💻 Technical Skills
 
+**Security Operations & Incident Response**
+
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat&logo=splunk)
+![Wazuh](https://img.shields.io/badge/Wazuh-Security%20Monitoring-1675A9?style=flat)
+![TheHive](https://img.shields.io/badge/TheHive-Incident%20Response-F4B942?style=flat)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-E34F26?style=flat)
+
+**Vulnerability & Network Security**
+
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-00A3E0?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat)
+![Kali](https://img.shields.io/badge/Kali%20Linux-Security%20Testing-557C94?style=flat)
+
+**Cloud, Governance & Risk**
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=flat&logo=amazonaws)
+![NIST](https://img.shields.io/badge/NIST-Risk%20Management-245A81?style=flat)
+![CIS](https://img.shields.io/badge/CIS-Controls-277A54?style=flat)
+
+**Programming & Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=flat)
+
+---
 ## 🛡️ Featured Projects
 
 <table>
@@ -134,38 +168,8 @@ and data protection to align technical controls with organizational objectives
 | [KingChess](https://www.kingchess.io/) | ReactJS, TypeScript, Python | Frontend development for a chess coaching platform serving 500+ users and supporting 1,000+ game analyses. Developed and refined interactive frontend components, landing pages, navigation, calls to action, and testimonial carousels using React.js and TypeScript, leveraging Claude and GitHub Copilot for AI-assisted development and to support debugging in a project-based collaborative setting |
 | [Autonomous Robot Navigation](https://github.com/ParthJPatel-Portfolio/Autonomous-Robot-Navigation-) | Python, ROS 2, Gazebo, OpenCV, NumPy, Matplotlib | Developed an autonomous navigation pipeline using Python, ROS 2, and Gazebo, converting a 20m $\times$ 20m apartment floor plan into binary occupancy maps with NumPy and OpenCV, implementing RRT, Kruskal's, and Dijkstra's algorithms to process 1,000 sample points, generating a collision-free route across 29 waypoints and integrating a three-state finite state machine with odometry-based tracking and LiDAR for collision-free robot navigation |
 | [Automated Plant Watering](https://github.com/ParthJPatel-Portfolio/Automated-Watering-Project-For-Houseplants) | Java (Object-oriented Programming), Arduino Grove, Soil Moisture Sensor, Water Pump, MOSFET | Developed a Java-controlled Arduino Grove automated watering system integrating soil moisture sensing, object-oriented control logic, and consecutive-reading validation to activate a water pump at predefined moisture thresholds while reducing false triggers from sensor fluctuations| 
-## 💻 Technical Skills
 
-**Security Operations & Incident Response**
 
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat&logo=splunk)
-![Wazuh](https://img.shields.io/badge/Wazuh-Security%20Monitoring-1675A9?style=flat)
-![TheHive](https://img.shields.io/badge/TheHive-Incident%20Response-F4B942?style=flat)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-E34F26?style=flat)
-
-**Vulnerability & Network Security**
-
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-00A3E0?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat)
-![Kali](https://img.shields.io/badge/Kali%20Linux-Security%20Testing-557C94?style=flat)
-
-**Cloud, Governance & Risk**
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-232F3E?style=flat&logo=amazonaws)
-![NIST](https://img.shields.io/badge/NIST-Risk%20Management-245A81?style=flat)
-![CIS](https://img.shields.io/badge/CIS-Controls-277A54?style=flat)
-
-**Programming & Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=flat)
 
 ## 🎓 Education
 
