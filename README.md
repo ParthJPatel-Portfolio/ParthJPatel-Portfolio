@@ -69,7 +69,7 @@ Experienced with security tools and technologies including Nessus, Wireshark, Nm
 
 `Nessus` `Nmap` `Kali Linux` `VMware`
 
-- Assessed Windows Server environments through network reconnaissance and vulnerability scanning, leading to the identification of 8 vulnerabilities and 15+ open ports
+- Assessed Windows Server environments (within an isolated VMware lab) through network reconnaissance and vulnerability scanning using Nmap and Nessus, leading to the identification of 8 vulnerabilities and 15+ open ports
 - Analyzed vulnerability severity, exploitability, and potential impact to develop a prioritized risk register with remediation recommendations, including restricting SNMP access, disabling unnecessary services, and replacing Telnet with SSH
 
 [**→ Explore Project**](https://github.com/ParthJPatel-Portfolio/Windows-Server-VM-Vulnerability-Assessment)
